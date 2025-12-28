@@ -2,6 +2,8 @@
 
 A comprehensive guide to mastering Helm, the Kubernetes package manager.
 
+- [References](./REFERENCES.md))
+
 ## Overview
 
 Helm is the package manager for Kubernetes, allowing you to define, install, and upgrade complex Kubernetes applications. This repository provides hands-on learning materials to master Helm for application packaging and deployment.
